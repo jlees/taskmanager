@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Mar 26 18:55:45 EDT 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0136-5138-e728-000002c990f0 
+on database directory /Users/johnlees/taskmanager/taskmanager  with class loader WebAppClassLoader=taskmanager@56200470 
+Loaded from file:/Users/johnlees/.m2/repository/org/apache/derby/derby/10.8.2.2/derby-10.8.2.2.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_29-b11-402-10M3527
+user.dir=/Users/johnlees/taskmanager
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
